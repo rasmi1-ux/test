@@ -6,4 +6,4 @@ def watermelon(weight):
     else:
         return "NO"
     
-print(watermelon(int(input())))
+print(watermelon(8))
